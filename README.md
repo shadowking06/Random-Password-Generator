@@ -74,10 +74,6 @@ Users can specify:
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shadowking06/random-password-generator/issues).
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🔗 Connect with Me
 
 - LinkedIn: [Ujjwal Pandey](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
